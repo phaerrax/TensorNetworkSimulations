@@ -4,3 +4,4 @@ repo = "git@github.com:phaerrax/TensorNetworkSimulations.git"
 description = "Packages for tensor-network simulations of quantum systems."
 
 [packages]
+b335cece-bf51-4f8f-ae23-b29b889c1946 = { name = "TEDOPA", path = "T/TEDOPA" }
