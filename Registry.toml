@@ -1,0 +1,6 @@
+name = "TensorNetworkSimulations"
+uuid = "d5f31a56-58eb-4571-b86c-9c507260a076"
+repo = "git@github.com:phaerrax/TensorNetworkSimulations.git"
+description = "Packages for tensor-network simulations of quantum systems."
+
+[packages]
