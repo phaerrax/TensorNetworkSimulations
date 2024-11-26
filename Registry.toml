@@ -4,6 +4,7 @@ repo = "git@github.com:phaerrax/TensorNetworkSimulations.git"
 description = "Packages for tensor-network simulations of quantum systems."
 
 [packages]
+3a97391d-bfb9-411c-b0e9-b32c43ed22e1 = { name = "PauliStrings", path = "P/PauliStrings" }
 400a33f1-71bb-44d0-bc88-50d33f8b7a09 = { name = "QuantumCircuitSimulator", path = "Q/QuantumCircuitSimulator" }
 6455c26f-8985-4381-925b-8a93509e9dbd = { name = "LindbladVectorizedTensors", path = "L/LindbladVectorizedTensors" }
 b335cece-bf51-4f8f-ae23-b29b889c1946 = { name = "TEDOPA", path = "T/TEDOPA" }
