@@ -16,5 +16,8 @@ ITensorMPS = "0d1a4710-d33b-49a5-8f18-73bdf49b47e2"
 ["0.5.5 - 0"]
 Memoize = "c03570c3-d221-55d1-a50c-7939bbd78826"
 
-["0.8 - 0"]
+["0.8.0"]
 PauliStrings = "3a97391d-bfb9-411c-b0e9-b32c43ed22e1"
+
+["0.8.1 - 0"]
+PauliStringTensors = "3a97391d-bfb9-411c-b0e9-b32c43ed22e1"
