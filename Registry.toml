@@ -6,6 +6,7 @@ description = "Packages for tensor-network simulations of quantum systems."
 [packages]
 3a97391d-bfb9-411c-b0e9-b32c43ed22e1 = { name = "PauliStringTensors", path = "P/PauliStringTensors" }
 400a33f1-71bb-44d0-bc88-50d33f8b7a09 = { name = "QuantumCircuitSimulator", path = "Q/QuantumCircuitSimulator" }
+509c1b6a-26da-4538-875f-50b31a76b593 = { name = "MPSTimeEvolution", path = "M/MPSTimeEvolution" }
 6455c26f-8985-4381-925b-8a93509e9dbd = { name = "LindbladVectorizedTensors", path = "L/LindbladVectorizedTensors" }
 b335cece-bf51-4f8f-ae23-b29b889c1946 = { name = "TEDOPA", path = "T/TEDOPA" }
 f4258524-7353-4a9f-9916-8287adc6b2b5 = { name = "MarkovianClosure", path = "M/MarkovianClosure" }

@@ -1,0 +1,3 @@
+name = "MPSTimeEvolution"
+uuid = "509c1b6a-26da-4538-875f-50b31a76b593"
+repo = "https://github.com/phaerrax/MPSTimeEvolution.jl"
