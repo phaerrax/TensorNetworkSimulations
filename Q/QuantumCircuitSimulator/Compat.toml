@@ -13,3 +13,6 @@ PauliStrings = "0.1.4 - *"
 
 ["0.8.1 - 0"]
 PauliStringTensors = "0.1.4 - 0.1"
+
+["0.8.4 - 0"]
+ProgressMeter = "1.10.2 - 1"

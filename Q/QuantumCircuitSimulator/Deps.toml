@@ -21,3 +21,6 @@ PauliStrings = "3a97391d-bfb9-411c-b0e9-b32c43ed22e1"
 
 ["0.8.1 - 0"]
 PauliStringTensors = "3a97391d-bfb9-411c-b0e9-b32c43ed22e1"
+
+["0.8.4 - 0"]
+ProgressMeter = "92933f4c-e287-5a05-a399-4b506db050ca"
