@@ -19,6 +19,9 @@ related to the world of numerical simulations of quantum systems.
 * [`QuantumCircuitSimulator`](https://github.com/phaerrax/QuantumCircuitSimulator.jl)
   is a generic simulator of quantum circuits with matrix-product states (still a
   work in progress).
+* [`GaussianStates`](https://github.com/phaerrax/GaussianStates.jl) provides
+  functions to manipulate Gaussian states through their covariance matrix and
+  vector of first moments, as well as several relevant matrix decompositions.
 
 ## Installation
 
