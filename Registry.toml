@@ -8,5 +8,6 @@ description = "Packages for tensor-network simulations of quantum systems."
 400a33f1-71bb-44d0-bc88-50d33f8b7a09 = { name = "QuantumCircuitSimulator", path = "Q/QuantumCircuitSimulator" }
 509c1b6a-26da-4538-875f-50b31a76b593 = { name = "MPSTimeEvolution", path = "M/MPSTimeEvolution" }
 6455c26f-8985-4381-925b-8a93509e9dbd = { name = "LindbladVectorizedTensors", path = "L/LindbladVectorizedTensors" }
+87be6f6c-69b0-4e4f-9c30-808c15aab153 = { name = "GaussianStates", path = "G/GaussianStates" }
 b335cece-bf51-4f8f-ae23-b29b889c1946 = { name = "TEDOPA", path = "T/TEDOPA" }
 f4258524-7353-4a9f-9916-8287adc6b2b5 = { name = "MarkovianClosure", path = "M/MarkovianClosure" }
