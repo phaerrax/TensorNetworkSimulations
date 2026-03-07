@@ -9,5 +9,8 @@ ProgressMeter = "92933f4c-e287-5a05-a399-4b506db050ca"
 Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
 SCS = "c946c3f1-0d1f-5ce8-9dea-7daa1f7e2d13"
 
-["0.4 - 0"]
+["0.4-0"]
 HypergeometricFunctions = "34004b35-14d8-5ef3-9330-4cdb6864b03a"
+
+["0.4.4-0"]
+SpecialFunctions = "276daf66-3868-5448-9aa4-cd146d93841b"
