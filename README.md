@@ -22,6 +22,9 @@ related to the world of numerical simulations of quantum systems.
 * [`GaussianStates`](https://github.com/phaerrax/GaussianStates.jl) provides
   functions to manipulate Gaussian states through their covariance matrix and
   vector of first moments, as well as several relevant matrix decompositions.
+* [`GaussianBosonSamplingMPS`](https://github.com/phaerrax/GaussianBosonSamplingMPS.jl)
+  implements the tensor-network-based algorithm for simulating Gaussian boson
+  sampling experiments proposed in [5].
 
 ## Installation
 
@@ -47,3 +50,5 @@ GitHub repository URL.
   [Phys. Rev. Lett. 129, 140604 (2022)](https://doi.org/10.1103/PhysRevLett.129.140604)
 4. D. Ferracin, A. Smirne, S. F. Huelga, M. B. Plenio and D. Tamascelli,
   [J. Chem. Phys. 161, 174114 (2024)](https://doi.org/10.1063/5.0226723)
+5. C. Oh, M. Liu, Y. Alexeev, B. Ferrerman and L. Jiang,
+  [Nature Physics 20, 1461–1468 (2024)](https://doi.org/10.1038/s41567-024-02535-8)
